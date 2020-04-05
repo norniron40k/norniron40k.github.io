@@ -62,7 +62,7 @@ links:
   - discord:
       name: Discord
       show: true
-      href: https://discord.gg/ZchYp6B
+      href: https://discord.gg/7uwkVak
       icon: fab fa-discord
   - twitter:
       name: Twitter
@@ -97,7 +97,7 @@ extra_html: >
         <input placeholder="Your Email" type="text" class="form-control form-control" name="email" id="tlemail" />
       </div>
       <input type="hidden" value="1" name="embed"/>
-      <button type="submit" class="btn btn-light" value="Subscribe">Join the Group</button>
+      <button type="submit" class="btn btn-light" value="Subscribe">Become a Member</button>
     </form>
   </div>
 #EOF

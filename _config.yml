@@ -64,6 +64,11 @@ links:
       show: true
       href: https://discord.gg/7uwkVak
       icon: fab fa-discord
+  - merch:
+      name: Merch
+      show: true
+      href: https://teespring.com/stores/norn-iron-40k
+      icon: fas fa-tshirt
   - twitter:
       name: Twitter
       show: true

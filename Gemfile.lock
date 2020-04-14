@@ -9,9 +9,12 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-java)
     ffi (1.12.2)
+    ffi (1.12.2-java)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
+    http_parser.rb (0.6.0-java)
     i18n (1.8.2)
       concurrent-ruby (~> 1.0)
     jekyll (4.0.0)
@@ -62,6 +65,7 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
+    thread_safe (0.3.6-java)
     tzinfo (1.2.6)
       thread_safe (~> 0.1)
     tzinfo-data (1.2019.3)
@@ -70,6 +74,7 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
+  java
   ruby
 
 DEPENDENCIES
